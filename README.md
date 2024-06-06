@@ -1,2 +1,1 @@
-
-https://naneishwesin.github.io
+naneishwesin.github.io
